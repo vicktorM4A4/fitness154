@@ -1,4 +1,4 @@
-from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
+from webhook import ReplyKeyboardMarkup, KeyboardButton
 
 btnMain = KeyboardButton('Главное меню')
 
