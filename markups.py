@@ -1,4 +1,4 @@
-from webhook import ReplyKeyboardMarkup, KeyboardButton
+from setup import ReplyKeyboardMarkup, KeyboardButton
 
 btnMain = KeyboardButton('Главное меню')
 
